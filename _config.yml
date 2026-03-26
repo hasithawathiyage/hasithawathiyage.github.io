@@ -16,28 +16,24 @@ header:
     - name: Blog
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - type: email
       name: Email Personal
-      value: hasithachamaraw@gmail.com
+      value: "hasithachamaraw@gmail.com"
     - type: email
     name: Email University
-    value: msm622@york.ac.uk
+    value: "msm622@york.ac.uk"
   follow:
-    - type: twitter
-      name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
     - type: facebook
       name: Facebook
-      link: http://facebook.com/YourFacebookUsername
+      link: "http://facebook.com/YourFacebookUsername"
     - type: linkedin
       name: LinkedIn
-      link: http://linkedin.com/in/hasithawathiyage
+      link: "http://linkedin.com/in/hasithawathiyage"
     - type: github
       name: GitHub
-      link: http://github.com/YourGitHubUsername
+      link: "http://github.com/YourGitHubUsername"
   
 
 # Build settings
