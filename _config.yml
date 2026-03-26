@@ -10,29 +10,29 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Home
+    - name: "Home"
       slug: /
-    - name: Publications
-    - name: Blog
+    - name: "Publications"
+    - name: "Blog"
 
 footer:
   show_powered_by: false
   contact:
-    - type: email
-      name: Email Personal
+    - type: "email"
+      name: "Email Personal"
       value: "hasithachamaraw@gmail.com"
-    - type: email
-    name: Email University
+    - type: "email"
+    name: "Email University"
     value: "msm622@york.ac.uk"
   follow:
-    - type: facebook
-      name: Facebook
+    - type: "facebook"
+      name: "Facebook"
       link: "http://facebook.com/YourFacebookUsername"
-    - type: linkedin
-      name: LinkedIn
+    - type: "linkedin"
+      name: "LinkedIn"
       link: "http://linkedin.com/in/hasithawathiyage"
-    - type: github
-      name: GitHub
+    - type: "github"
+      name: "GitHub"
       link: "http://github.com/YourGitHubUsername"
   
 
